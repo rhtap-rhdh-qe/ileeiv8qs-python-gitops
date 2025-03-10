@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ileeiv8qs-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ileeiv8qs-python
